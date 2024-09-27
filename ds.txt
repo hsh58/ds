@@ -24,11 +24,11 @@ CCTV13,http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4
 
 卫视,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://8.137.59.151:3009/TV2/gat.php?id=1#http://xeace.cn:8888/udp/239.93.1.9:2192
+凤凰中文,http://211.72.65.236:8577/.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://8.137.59.151:3009/TV2/gat.php?id=2#http://118.112.148.151:4022/udp/239.93.0.118:2191
+凤凰资讯,http://211.72.65.236:8576/.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,http://8.137.59.151:3009/TV2/gat.php?id=3#http://171.110.10.194:8181/tsfile/live/1084_1.m3u8
+凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://video.qd.sdu.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -71,7 +71,7 @@ tvbs新闻,http://37.27.111.214:8080/live/23/hls.m3u8
 斗鱼美食,https://www.goodiptv.club/douyu/8144937
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-生活时尚,http://wouu.net:9977/udp/239.93.0.106:5140
+生活时尚,http://116.226.62.3:8088/udp/239.45.3.132:5140
 墨宝高清,http://wouu.net:9977/udp/239.93.0.215:9132
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
@@ -110,8 +110,6 @@ tvbs新闻,http://37.27.111.214:8080/live/23/hls.m3u8
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 动漫秀场,http://117.161.12.124/live/program/live/dmxchd/4000000/mnf.m3u8
-国家地理台,http://8.137.59.151:3009/TV2/gat.php?id=92
-野生地理,http://8.137.59.151:3009/TV2/gat.php?id=93
 
 舌尖中国,#genre#
 1.1自然的馈赠,https://boot-video.xuexi.cn/video/1004/p/e36231604bf26f922fecfc02b5a8b0c5-c5781f68e06745d2807d5de7ffa4bcfa-2.mp4
