@@ -24,11 +24,11 @@ CCTV13,http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4
 
 卫视,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰中文,http://211.72.65.236:8577/.m3u8
+凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://211.72.65.236:8576/.m3u8
+凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰香港,https://stream1.freetv.fun/feng-huang-xiang-gang-3.ctv
+凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://video.qd.sdu.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -71,7 +71,7 @@ tvbs新闻,http://37.27.111.214:8080/live/23/hls.m3u8
 斗鱼美食,https://www.goodiptv.club/douyu/8144937
 茶频道,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031209
 乐游,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
-生活时尚,http://116.226.62.3:8088/udp/239.45.3.132:5140
+生活时尚,http://1.70.32.177:8082/udp/239.1.1.76:8076#http://wouu.net:9977/udp/239.93.0.106:5140
 墨宝高清,http://wouu.net:9977/udp/239.93.0.215:9132
 军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
