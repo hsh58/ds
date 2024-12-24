@@ -133,8 +133,6 @@ IHOT体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=200000000400000
 GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
 爱玩具,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000053
-猫和老鼠,https://stream1.freetv.fun/8516698ab13ee03ac2282e14c67511fd62adeea4394b068a341793a56b259730.ctv
-猫和老鼠,https://stream1.freetv.fun/06f05ac69c6fd89ebb1e5d97f1165aa0ada79f5749a2c8c27751fdda4e265a03.ctv
 
 央视少儿,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -157,12 +155,12 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 特色家常10道菜,https://vd4.bdstatic.com/mda-qjde2q42rue8u30x/720p/mv_cae264_backtrack_720p_normal/1728901200489793099/mda-qjde2q42rue8u30x.mp4
 经典家常10道菜,https://vd2.bdstatic.com/mda-qjf76vd3tmt6itdr/720p/mv_cae264_backtrack_720p_normal/1729116886152120996/mda-qjf76vd3tmt6itdr.mp4
 招待贵客有面子10道菜,https://vd2.bdstatic.com/mda-qjamk3ww02swvtvg/540p/mv_cae264_backtrack_540p_normal/1728771745779332069/mda-qjamk3ww02swvtvg.mp4
-10道特色美食,https://flv3.bn.netease.com/202826045cb55184dec5a8c92f49cdab979598c45c80b9aca75429dfd44849954419a8608cdb0e2aed38e792002a2d398884994a659ad2135a47cb66ac400cce579aff92914b4929d0f60fe12a5ce64aee931cf95a64b339349e7da903bd4513fdaa92accbbe434293081a8c3480d656fedb99f9bc5d0de0.m3u8
-10道花样美食,https://flv3.bn.netease.com/202826045cb55184e22e2ba501cffbb54e8b40b118ab2aa5bbf86c063d93c162b09a8cd525f6c266205a03a761b9b8f3ae508c78f2eb5a1f5be0815c0ab5c3032f30f8445dc27c204b01a952b8f39612189a5bb10a499dab430e0db3a386eb4c4e8557b91d0161c9f5083aac5321497e05ea823706222c44.m3u8
-10种鱼肉做法,https://flv3.bn.netease.com/202826045cb55184002ac0b8f66dbf64744e1c7c70df974e5ecc62c8ffd8081b8e50dec6322d0999aa9c820d29978022f93a2af3f2865f4418f7f335c9cc449baa8c4d72eccafb0fa536edcac490c54712803518e7e205a343713e62e6836d78353c36f26433426d0fd222426417074f395645bc299c1670.m3u8
-10种排骨做法,https://flv3.bn.netease.com/202826045cb55184168cdc595d480af6e8421e823b84d8ecb07e2ee110cd578b427c0e4e5b6c27c3aff84e4e1258ba2552d20538ad7d0dce73a137e84fee6353c3e468a1b4b84ba82fc2bf79cd0bac59a449287efdb969ff9a884cbbb133d074f39add37398298fff5ff7ce698ab59d955961625ec9179a1.m3u8
-15道经典素菜,https://flv3.bn.netease.com/202826045cb5518453eedcae8e28b47e6ead9dd5ec39d4c90f4bd440be933b046811438f6e5d9f84129a6e61fb4f745bb019e4b4db0f17939798a0193bf74fe8cc4153dd5017dab1683c868d6f25457390d969658b0fe78e05768d5cfcb90a383b2b562be2c300d7e8c878ea01e21969fe834f47bdeb7637.m3u8
-15道热门营养汤,https://flv3.bn.netease.com/202826045cb551849b124c81754cfc1a6e0fefb6687bfaf021ba71993f68ac18cd3040c72da0e4691c0b2ac7203f4f213cf55405ac2dad0a37e69e331ce52c72dbc82b83b549c9490c3b92c8507e36ab117d18dea68d10aa1f5534611abb2116ab43c246b0b39a81cfc64dd646c3481e0af66e40951c0654.m3u8
+10道特色美食,https://vd4.bdstatic.com/mda-qmfe62jv0kwan2dx/720p/mv_cae264_backtrack_720p_normal/1734344111633378494/mda-qmfe62jv0kwan2dx.mp4
+10道花样美食,https://vd2.bdstatic.com/mda-qk8pmh5hqykz4iz5/720p/mv_cae264_backtrack_720p_normal/1731232285199870579/mda-qk8pmh5hqykz4iz5.mp4
+10种鱼肉做法,https://vd2.bdstatic.com/mda-qjn7bbt6815rt1s3/720p/mv_cae264_backtrack_720p_normal/1729660528703116890/mda-qjn7bbt6815rt1s3.mp4
+10种排骨做法,https://vd4.bdstatic.com/mda-pmfn65eymaf93yr8/720p_frame30/h264_cae_acd/1702742800698571456/mda-pmfn65eymaf93yr8.mp4
+15道经典素菜1,https://vd2.bdstatic.com/mda-qmmf7ahg73eu3v8y/720p/mv_cae264_backtrack_720p_normal/1734905402677117865/mda-qmmf7ahg73eu3v8y.mp4
+15道经典素菜2,https://vd2.bdstatic.com/mda-qdjg4ky2avn57njf/720p_frame30/h264_cae_acd/1713614482052348110/mda-qdjg4ky2avn57njf.mp4
 东坡肘子,https://vd3.bdstatic.com/mda-jj4j1ftrb23g9bm0/sc/mda-jj4j1ftrb23g9bm0.mp4
 炖红烧肉,https://vd3.bdstatic.com/mda-jmij2puznds3zjwj/sc/mda-jmij2puznds3zjwj.mp4
 炒猪蹄,https://vd3.bdstatic.com/mda-jjhrpfzyggfw57uc/sc/mda-jjhrpfzyggfw57uc.mp4
