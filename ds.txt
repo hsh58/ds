@@ -83,7 +83,7 @@ CCTV13,http://tv.20191209.xyz:37377/migu/608807423.m3u8?migutoken=948b8b51df7e77
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 家庭影院,http://z.b.bkpcp.top/m.php?id=jtyy
-动斗电影,http://z.b.bkpcp.top/m.php?id=dzdy
+动作电影+,http://z.b.bkpcp.top/m.php?id=dzdy
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 灾难片,https://live.metshop.top/huya/11602075
@@ -237,3 +237,10 @@ GOOD卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 3.6酥,https://ikcdn01.ikzybf.com/20221203/yHlRyL0a/index.m3u8
 3.7生,https://ikcdn01.ikzybf.com/20221203/HuShXFq1/index.m3u8
 3.8合,https://ikcdn01.ikzybf.com/20221203/hzqkjdTI/index.m3u8
+4.1绝活,https://v.cdnlz3.com/20250205/33188_238c798e/index.m3u8
+4.2烟火,https://v.cdnlz3.com/20250205/33189_d6d7ad37/index.m3u8
+4.3焕发,https://v.cdnlz3.com/20250210/33443_929d5ed9/index.m3u8
+4.4天作,https://v.cdnlz3.com/20250210/33442_573dfff6/index.m3u8
+4.5风物,https://v.cdnlz3.com/20250210/33446_c14d8859/index.m3u8
+4.6洞天,https://v.cdnlz3.com/20250210/33445_4d96cf1b/index.m3u8
+4.7华流,https://v.cdnlz3.com/20250210/33444_7dcbdfec/index.m3u8
