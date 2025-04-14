@@ -1,15 +1,15 @@
 中央电视,#genre#
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
-CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
-CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-CCTV5+,http://yc.myds.me:35455/gaoma/cctv5p.m3u8
-CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
-CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
-CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
-CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV1,http://129.146.6.71:35455/gaoma/cctv1.m3u8
+CCTV2,http://129.146.6.71:35455/gaoma/cctv2.m3u8
+CCTV3,http://129.146.6.71:35455/gaoma/cctv3.m3u8
+CCTV4,http://129.146.6.71:35455/gaoma/cctv4.m3u8
+CCTV5,http://129.146.6.71:35455/gaoma/cctv5.m3u8
+CCTV5+,http://129.146.6.71:35455/gaoma/cctv5p.m3u8
+CCTV6,http://129.146.6.71:35455/gaoma/cctv6.m3u8
+CCTV7,http://129.146.6.71:35455/gaoma/cctv7.m3u8
+CCTV8,http://129.146.6.71:35455/gaoma/cctv8.m3u8
+CCTV9,http://129.146.6.71:35455/gaoma/cctv9.m3u8
+CCTV13,http://129.146.6.71:35455/gaoma/cctv13.m3u8
 
 CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
@@ -26,7 +26,7 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 卫视地方,#genre#
 安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 东方卫视,http://goo.bkpcp.top/mg/dfws
@@ -49,7 +49,7 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 超级体育,http://107.174.52.32/itv.php?id=%e8%b6%85%e7%ba%a7%e4%bd%93%e8%82%b2
-奥林匹克,https://yunmei.tv/main/cctv-16.m3u8
+奥林匹克,http://129.146.6.71:35455/gaoma/cctv16.m3u8
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
@@ -101,7 +101,7 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 黑莓电影,http://107.174.52.32/itv.php?id=%e9%bb%91%e8%8e%93%e7%94%b5%e5%bd%b1
 
 少儿频道,#genre#
-央视少儿,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+央视少儿,http://129.146.6.71:35455/gaoma/cctv14.m3u8
 央视少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 卡酷少儿,http://wouu.net:9977/udp/239.93.0.208:5140
