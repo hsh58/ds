@@ -23,37 +23,28 @@ CCTV8,http://goo.bkpcp.top/mg/cctv8
 CCTV9,http://goo.bkpcp.top/mg/cctv9
 CCTV13,http://goo.bkpcp.top/mg/cctv13
 
-CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
-CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
-CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
-CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
-CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
-CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
-CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
-CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
-CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
-CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
-
 卫视地方,#genre#
 安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.66:11111
 江苏卫视,http://ms.fxim.net:808/hls/1/index.m3u8
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.98:11111
 北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
-安徽卫视,http://z.b.bkpcp.top/m.php?id=ahws#http://goo.bkpcp.top/mg/ahws
+安徽卫视,http://goo.bkpcp.top/mg/ahws
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws#http://goo.bkpcp.top/mg/jsws
-湖南卫视,http://z.b.bkpcp.top/m.php?id=hunan#http://goo.bkpcp.top/mg/hunan
-北京卫视,http://z.b.bkpcp.top/m.php?id=bjws#http://goo.bkpcp.top/mg/bjws
-东方卫视,http://z.b.bkpcp.top/m.php?id=dfws#http://goo.bkpcp.top/mg/dfws
+江苏卫视,http://goo.bkpcp.top/mg/jsws
+湖南卫视,http://goo.bkpcp.top/mg/hunan
+北京卫视,http://goo.bkpcp.top/mg/bjws
+东方卫视,http://goo.bkpcp.top/mg/dfws
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-中天新闻,https://haoyunlai.serv00.net/Smartv-1.php?id=ctinews#https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews
+中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
+中天新闻,https://gdfire2.67890123.cn:8088/live/ztxw2.m3u8#https://gdfire2.67890123.cn:8088/live/ztxw.m3u8
+
+
 东森新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=ettvnews
 寰宇新闻,https://pixman.mytvsuper.com.mp/Smart.php?id=huanyuxinwen_twn
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
@@ -66,13 +57,13 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 天元围棋,http://119.36.78.50:9981/tsfile/live/1034_1.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
 超级体育,http://107.174.52.32/itv.php?id=%e8%b6%85%e7%ba%a7%e4%bd%93%e8%82%b2
-奥林匹克,,http://goo.bkpcp.top/mg/cctv16#http://z.b.bkpcp.top/m.php?id=cctv16
+奥林匹克,,http://goo.bkpcp.top/mg/cctv16
 风云足球,http://111.61.236.247:9081/hls/58/index.m3u8
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq#https://stream1.freetv.fun/c4c0120437ff70a01309d1e652fe96ff0d6043c76e5f61a31ab68dd0ef9a3118.ctv#http://goo.bkpcp.top/mg/mlzq
+魅力足球,http://goo.bkpcp.top/mg/mlzq#https://stream1.freetv.fun/c4c0120437ff70a01309d1e652fe96ff0d6043c76e5f61a31ab68dd0ef9a3118.ctv
 精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf05200dfbafcc137e214c9b30ca7.m3u8
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty#https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
+劲爆体育,http://goo.bkpcp.top/mg/jbty#https://epg.pw/stream/5c9f8deb5d2b8a259adb635f16239674f23d6075bb3713aa4795a8a7ecb34f52.ctv
 快乐垂钓,http://1.193.56.43:8800/rtp/239.16.20.67:10670
-快乐垂钓,http://goo.bkpcp.top/mg/klcd#http://z.b.bkpcp.top/m.php?id=klcd
+快乐垂钓,http://goo.bkpcp.top/mg/klcd
 
 特色频道,#genre#
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -94,15 +85,15 @@ CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
 
 影视频道,#genre#
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-家庭影院,http://goo.bkpcp.top/mg/chcjt#http://z.b.bkpcp.top/m.php?id=jtyy
-动作电影+,http://goo.bkpcp.top/mg/chcdz#http://z.b.bkpcp.top/m.php?id=dzdy
-东方影视,http://goo.bkpcp.top/mg/shys#http://z.b.bkpcp.top/m.php?id=shys
-欢笑剧场,http://goo.bkpcp.top/mg/hxjc#http://z.b.bkpcp.top/m.php?id=hxjc
-经典电影,http://goo.bkpcp.top/mg/jdxgdy#http://z.b.bkpcp.top/m.php?id=jdxgdy
-军事大片,http://goo.bkpcp.top/mg/jsdp#http://z.b.bkpcp.top/m.php?id=jsdp
-热剧联播,http://goo.bkpcp.top/mg/rjlb#http://z.b.bkpcp.top/m.php?id=rjlb
-新片映厅,http://goo.bkpcp.top/mg/xpfyt#http://z.b.bkpcp.top/m.php?id=xpfyt
-Y+剧场台,http://goo.bkpcp.top/mg/yjjc#http://z.b.bkpcp.top/m.php?id=yjjc
+家庭影院,http://goo.bkpcp.top/mg/chcjt
+动作电影+,http://goo.bkpcp.top/mg/chcdz
+东方影视,http://goo.bkpcp.top/mg/shys
+欢笑剧场,http://goo.bkpcp.top/mg/hxjc
+经典电影,http://goo.bkpcp.top/mg/jdxgdy
+军事大片,http://goo.bkpcp.top/mg/jsdp
+热剧联播,http://goo.bkpcp.top/mg/rjlb
+新片映厅,http://goo.bkpcp.top/mg/xpfyt
+Y+剧场台,http://goo.bkpcp.top/mg/yjjc
 
 精品大剧,http://107.174.52.32/itv.php?id=%e7%b2%be%e5%93%81%e5%a4%a7%e5%89%a7
 爱情喜剧,http://107.174.52.32/itv.php?id=%e7%88%b1%e6%83%85%e5%96%9c%e5%89%a7
@@ -122,7 +113,6 @@ Y+剧场台,http://goo.bkpcp.top/mg/yjjc#http://z.b.bkpcp.top/m.php?id=yjjc
 
 少儿频道,#genre#
 央视少儿,http://goo.bkpcp.top/mg/cctv14
-央视少儿,http://z.b.bkpcp.top/m.php?id=cctv14
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 卡酷少儿,http://107.174.52.32/itv.php?id=%e5%8c%97%e4%ba%ac%e5%8d%a1%e9%85%b7%e5%b0%91%e5%84%bf#http://wouu.net:9977/udp/239.93.0.208:5140
 金鹰卡通,http://qjrhc.jydjd.top:2911/udp/224.1.100.113:11111
