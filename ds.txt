@@ -42,9 +42,7 @@ CCTV13,http://goo.bkpcp.top/mg/cctv13
 湖南卫视,http://153.0.169.80:888/hls/19/index.m3u8
 北京卫视,http://153.0.169.80:888/hls/23/index.m3u8
 东方卫视,http://153.0.169.80:888/hls/25/index.m3u8
-安徽卫视,http://goo.bkpcp.top/mg/ahws
 江苏卫视,http://goo.bkpcp.top/mg/jsws
-湖南卫视,http://goo.bkpcp.top/mg/hunan
 北京卫视,http://goo.bkpcp.top/mg/bjws
 东方卫视,http://goo.bkpcp.top/mg/dfws
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
@@ -53,7 +51,6 @@ CCTV13,http://goo.bkpcp.top/mg/cctv13
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 中天新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一中天新闻
 tvbs新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一TVBS新闻
 东森新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一东森新闻
@@ -64,7 +61,7 @@ tvbs新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一TVBS新闻
 台视新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一台视新闻
 非凡新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一非凡新闻
 闽镜新闻,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一镜新闻
-
+中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
 东森新闻,http://live4play.uk/livehttpplay?channel_id=20082
 三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
 年代新闻,http://live4play.uk/livehttpplay?channel_id=20033
