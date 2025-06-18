@@ -1,4 +1,28 @@
 中央电视,#genre#
+CCTV1,http://1.wcnm.qzz.io:35455/mgtv/608807420.m3u8
+CCTV2,http://1.wcnm.qzz.io:35455/mgtv/631780532.m3u8
+CCTV3,http://1.wcnm.qzz.io:35455/mgtv/624878271.m3u8
+CCTV4,http://1.wcnm.qzz.io:35455/mgtv/631780421.m3u8
+CCTV5,http://1.wcnm.qzz.io:35455/mgtv/641886683.m3u8
+CCTV5+,http://1.wcnm.qzz.io:35455/mgtv/641886773.m3u8
+CCTV6,http://1.wcnm.qzz.io:35455/mgtv/624878396.m3u8
+CCTV7,http://1.wcnm.qzz.io:35455/mgtv/673168121.m3u8
+CCTV8,http://1.wcnm.qzz.io:35455/mgtv/624878356.m3u8
+CCTV9,http://1.wcnm.qzz.io:35455/mgtv/673168140.m3u8
+CCTV10,http://1.wcnm.qzz.io:35455/mgtv/624878405.m3u8
+CCTV13,http://1.wcnm.qzz.io:35455/mgtv/608807423.m3u8
+CCTV1,http://jy.hutao.cool:35455/mgtv/608807420.m3u8
+CCTV2,http://jy.hutao.cool:35455/mgtv/631780532.m3u8
+CCTV3,http://jy.hutao.cool:35455/mgtv/624878271.m3u8
+CCTV4,http://jy.hutao.cool:35455/mgtv/631780421.m3u8
+CCTV5,http://jy.hutao.cool:35455/mgtv/641886683.m3u8
+CCTV5+,http://jy.hutao.cool:35455/mgtv/641886773.m3u8
+CCTV6,http://jy.hutao.cool:35455/mgtv/624878396.m3u8
+CCTV7,http://jy.hutao.cool:35455/mgtv/673168121.m3u8
+CCTV8,http://jy.hutao.cool:35455/mgtv/624878356.m3u8
+CCTV9,http://jy.hutao.cool:35455/mgtv/673168140.m3u8
+CCTV10,http://jy.hutao.cool:35455/mgtv/624878405.m3u8
+CCTV13,http://jy.hutao.cool:35455/mgtv/608807423.m3u8
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
 CCTV3,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
@@ -25,6 +49,12 @@ CCTV10,http://qjrhc.jydjd.top:2911/udp/224.1.100.76:11111
 CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 
 卫视地方,#genre#
+安徽卫视,http://1.wcnm.qzz.io:35455/nptv/anhui.m3u8
+浙江卫视,http://1.wcnm.qzz.io:35455/nptv/zhejiang.m3u8
+江苏卫视,http://1.wcnm.qzz.io:35455/mgtv/623899368.m3u8
+湖南卫视,http://1.wcnm.qzz.io:35455/nptv/hunan.m3u8
+北京卫视,http://1.wcnm.qzz.io:35455/nptv/beijing.m3u8
+东方卫视,http://1.wcnm.qzz.io:35455/mgtv/651632648.m3u8
 安徽卫视,http://itv.iptv1688.top:2016/itv.php?id=安徽卫视
 浙江卫视,http://itv.iptv1688.top:2016/itv.php?id=浙江卫视
 江苏卫视,http://itv.iptv1688.top:2016/itv.php?id=江苏卫视
@@ -63,7 +93,8 @@ tvbs新闻,http://47.242.63.189:1777/smt.php?id=tvbs_n
 天元围棋,http://yuzhe.ltd:5555/udp/239.93.42.55:5140
 天元围棋,http://vip.lqcc.xyz:15511/rtp/239.254.201.156:6270
 天元围棋,http://www.bg3nit.top:9999/rtp/239.253.93.211:6389
-奥林匹克,http://itv.iptv1688.top:2016/itv.php?id=CCTV16#http://sh.lnott.top:880/dx201.m3u8
+掼蛋精英赛,http://1.wcnm.qzz.io:35455/mgtv/631354620.m3u8
+奥林匹克,http://jy.hutao.cool:35455/nptv/cctv16.m3u8#http://itv.iptv1688.top:2016/itv.php?id=CCTV16
 风云足球,http://vip.lqcc.xyz:15511/rtp/239.254.201.222:7251#http://www.bg3nit.top:9999/rtp/239.253.93.254:6432
 高尔夫网球,http://vip.lqcc.xyz:15511/rtp/239.254.200.98:6232#http://www.bg3nit.top:9999/rtp/239.253.93.122:6465
 央视台球,http://vip.lqcc.xyz:15511/rtp/239.254.201.171:7176#http://www.bg3nit.top:9999/rtp/239.253.93.231:6409
@@ -81,7 +112,7 @@ tvbs新闻,http://47.242.63.189:1777/smt.php?id=tvbs_n
 茶频道,http://qjrhc.jydjd.top:2911/udp/224.1.100.117:11111#http://vip.lqcc.xyz:15511/rtp/239.254.200.228:6258
 乐游纪实,http://qjrhc.jydjd.top:2911/udp/224.1.100.143:11111
 生活时尚,http://yuzhe.ltd:5555/udp/239.93.42.29:5140#http://vip.lqcc.xyz:15511/rtp/239.254.201.166:6359
-发现之旅,http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
+发现之旅,http://1.wcnm.qzz.io:35455/mgtv/624878970.m3u8#http://www.bg3nit.top:9999/rtp/239.253.94.30:6629
 大爱旅游,http://yuzhe.ltd:5555/udp/239.93.42.70:5140
 大爱生活,http://yuzhe.ltd:5555/udp/239.93.42.71:5140
 大爱时尚,http://yuzhe.ltd:5555/udp/239.93.42.72:5140
@@ -101,9 +132,11 @@ tvbs新闻,http://47.242.63.189:1777/smt.php?id=tvbs_n
 
 影视频道,#genre#
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-家庭影院,http://itv.iptv1688.top:2016/itv.php?id=CHC家庭影院#http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
-动作电影,http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影#http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
-影迷电影,http://itv.iptv1688.top:2016/itv.php?id=CHC影迷电影#http://sh.lnott.top:880/dx101.m3u8
+家庭影院,http://1.wcnm.qzz.io:35455/mgtv/644368373.m3u8#http://itv.iptv1688.top:2016/itv.php?id=CHC家庭影院#http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111
+动作电影,http://1.wcnm.qzz.io:35455/mgtv/644368714.m3u8#http://itv.iptv1688.top:2016/itv.php?id=CHC动作电影#http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111
+影迷电影,http://1.wcnm.qzz.io:35455/mgtv/952383261.m3u8#http://itv.iptv1688.top:2016/itv.php?id=CHC影迷电影
+风云剧场,http://1.wcnm.qzz.io:35455/nptv/fyjc.m3u8
+怀旧剧场,http://1.wcnm.qzz.io:35455/nptv/hjjc.m3u8
 都市剧场,http://yuzhe.ltd:5555/udp/239.93.42.30:5140
 爱浪漫,http://yuzhe.ltd:5555/udp/239.93.42.21:5140
 爱喜剧,http://yuzhe.ltd:5555/udp/239.93.42.9:5140
