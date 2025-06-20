@@ -83,7 +83,7 @@ tvbs新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 天元围棋,http://www.tszhgjj.cn:7000/rtp/239.253.93.211:6389
 天元围棋,http://vip.lqcc.xyz:15511/rtp/239.254.201.156:6270
 掼蛋精英赛,http://1.wcnm.qzz.io:35455/mgtv/631354620.m3u8
-奥林匹克,http://jy.hutao.cool:35455/nptv/cctv16.m3u8#http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
+奥林匹克,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16#http://jy.hutao.cool:35455/nptv/cctv16.m3u8
 风云足球,http://www.tszhgjj.cn:7000/rtp/239.253.92.110:8061#http://vip.lqcc.xyz:15511/rtp/239.254.201.222:7251
 高尔夫网球,http://www.tszhgjj.cn:7000/rtp/239.253.92.117:8062#http://vip.lqcc.xyz:15511/rtp/239.254.200.98:6232
 央视台球,http://www.tszhgjj.cn:7000/rtp/239.253.93.231:6409#http://vip.lqcc.xyz:15511/rtp/239.254.201.171:7176
@@ -99,7 +99,7 @@ tvbs新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 特色频道,#genre#
 直播中国,http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 茶频道,http://qjrhc.jydjd.top:2911/udp/224.1.100.117:11111#http://vip.lqcc.xyz:15511/rtp/239.254.200.228:6258
-乐游纪实,http://qjrhc.jydjd.top:2911/udp/224.1.100.143:11111
+乐游纪实,http://b.402089.xyz:4022/udp/233.50.200.148:5140#http://qjrhc.jydjd.top:2911/udp/224.1.100.143:11111
 生活时尚,http://yuzhe.ltd:5555/udp/239.93.42.29:5140#http://vip.lqcc.xyz:15511/rtp/239.254.201.166:6359
 发现之旅,http://1.wcnm.qzz.io:35455/mgtv/624878970.m3u8#http://www.tszhgjj.cn:7000/rtp/239.253.94.30:6629
 大爱旅游,http://yuzhe.ltd:5555/udp/239.93.42.70:5140
@@ -126,7 +126,7 @@ tvbs新闻,https://s1.m16tv.cfd/tvbs/tvbs/AKTV.m3u8
 影迷电影,http://1.wcnm.qzz.io:35455/mgtv/952383261.m3u8#http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影
 风云剧场,http://1.wcnm.qzz.io:35455/nptv/fyjc.m3u8#http://www.tszhgjj.cn:7000/rtp/239.253.92.22:6073
 怀旧剧场,http://1.wcnm.qzz.io:35455/nptv/hjjc.m3u8#http://www.tszhgjj.cn:7000/rtp/239.253.92.98:6120
-都市剧场,http://yuzhe.ltd:5555/udp/239.93.42.30:5140
+都市剧场,http://yuzhe.ltd:5555/udp/239.93.42.30:5140#http://home.yulei.online:9999/rtp/226.0.2.81:8560
 爱浪漫,http://yuzhe.ltd:5555/udp/239.93.42.21:5140
 爱喜剧,http://yuzhe.ltd:5555/udp/239.93.42.9:5140
 爱奇谈,http://yuzhe.ltd:5555/udp/239.93.42.22:5140
