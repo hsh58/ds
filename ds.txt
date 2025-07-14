@@ -37,12 +37,13 @@ CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 
 卫视地方,#genre#
 安徽卫视,http://aiony.top:35455/bst/ahwshd@4000000.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://aiony.top:35455/bst/zjwshd@4000000.m3u8
 江苏卫视,http://aiony.top:35455/bst/jswshd@4000000.m3u8
 湖南卫视,http://aiony.top:35455/bst/hnwshd@4000000.m3u8
 北京卫视,http://aiony.top:35455/bst/bjwshd@4000000.m3u8
 东方卫视,http://aiony.top:35455/nptv/dongfang.m3u8
 安徽卫视,http://router.870503.xyz:18885/udp/239.45.1.120:5140
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,http://router.870503.xyz:18885/udp/239.45.3.177:5140
 湖南卫视,http://router.870503.xyz:18885/udp/239.45.3.228:5140
 北京卫视,http://router.870503.xyz:18885/udp/239.45.3.229:5140
@@ -52,6 +53,9 @@ CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 湖南卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.98:11111
 北京卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.100:11111
 东方卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.48:11111
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.flv
