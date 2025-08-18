@@ -1,12 +1,8 @@
 {
     "urls": [
         {
-            "url": "https://4708.kstore.space/box/svip.json",
-            "name": "🚀自选一线路"
-        },    
-        {
             "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🚀自选二线路"
+            "name": "🚀自选线路"
         },    
         {
             "url": "http://www.饭太硬.com/tv",
