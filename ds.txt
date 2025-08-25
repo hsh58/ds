@@ -43,12 +43,12 @@ CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 湖南卫视,http://b.402089.xyz:4022/udp/233.50.200.190:5140
 北京卫视,http://b.402089.xyz:4022/udp/233.50.200.179:5140
 东方卫视,http://b.402089.xyz:4022/udp/233.50.200.146:5140
-安徽卫视,http://router.870503.xyz:18885/udp/239.45.1.120:5140
+安徽卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.161:8950
 浙江卫视,http://router.870503.xyz:18885/udp/239.45.3.178:5140
-江苏卫视,http://router.870503.xyz:18885/udp/239.45.3.177:5140
-湖南卫视,http://router.870503.xyz:18885/udp/239.45.3.228:5140
-北京卫视,http://router.870503.xyz:18885/udp/239.45.3.229:5140
-东方卫视,http://router.870503.xyz:18885/udp/239.45.3.146:5140
+江苏卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.115:8672
+湖南卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.114:8666
+北京卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.117:8684
+东方卫视,http://home.kaijuns.cn:4000/rtp/239.121.4.109:8636
 安徽卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.66:11111
 浙江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111
 江苏卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.46:11111
@@ -63,7 +63,6 @@ CCTV13,http://qjrhc.jydjd.top:2911/udp/224.1.100.69:11111
 凤凰香港,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
 凤凰中文,http://b.402089.xyz:4022/udp/233.50.200.42:5140
 凤凰资讯,http://b.402089.xyz:4022/udp/233.50.200.192:5140
-宁波TV1,https://liveplay8.nbtv.cn/live/nbtv1_md.m3u8?auth_key=1756031015-0-0-e5baf6afd3f161fbc6d949912ea253f2
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
@@ -95,6 +94,7 @@ tvbs新闻,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
 央视台球,http://www.tszhgjj.cn:7000/rtp/239.253.93.231:6409
 先锋乒羽,http://www.lizhinas.top:1009/rtp/239.252.219.184:5140
 先锋乒羽,http://nas.xlnas.com:4022/udp/239.93.42.56:5140
+五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 咪世界1,http://iptv.hn.cn:1258/itv/3000000001000005308.m3u8?cdn=FifastbLive
 咪世界2,http://iptv.hn.cn:1258/itv/3000000001000005969.m3u8?cdn=FifastbLive
 咪世界3,http://iptv.hn.cn:1258/itv/3000000001000008001.m3u8?cdn=FifastbLive
@@ -138,6 +138,7 @@ IPTV野外,http://home.kaijuns.cn:4000/rtp/239.121.4.182:9076
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 
 影视频道,#genre#
+重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 经典电影,http://www.lizhinas.top:1009/rtp/239.252.220.139:5140#http://home.kaijuns.cn:4000/rtp/239.121.4.172:9016
 影迷电影,http://www.lizhinas.top:1009/rtp/239.252.219.83:5140
 家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
