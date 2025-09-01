@@ -116,6 +116,9 @@ tvbs新闻,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
 特色频道,#genre#
 茶频道,http://qjrhc.jydjd.top:2911/udp/224.1.100.117:11111
 茶频道,http://b.402089.xyz:4022/udp/233.50.200.124:5140
+风味人间,https://stream1.freetv.fun/b2b678bcff1ff70dee821eb979c0dab461487715fd1e43ddb358afbc63f6898e.ctv
+广味美食之旅,https://stream1.freetv.fun/5b471af6181283b6d4fdf53bd00e34abc3cd4b925a1520c2265723f2aca266df.ctv
+广味美食纪录,https://stream1.freetv.fun/788601abd15d1aed4b434763c32c67a61970bfdf4b623871e42607b062f58937.ctv
 乐游纪实,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游纪实,http://home.kaijuns.cn:4000/rtp/239.121.4.69:8388
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
@@ -126,8 +129,6 @@ tvbs新闻,http://t.061899.xyz/tl/js/js.php?id=tvbsxwt
 军事评论,http://home.kaijuns.cn:4000/rtp/239.121.4.196:9160
 世界历史,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1026_720P_t10/c60_fast_1026_720P_t10.m3u8?d
 IPTV野外,http://home.kaijuns.cn:4000/rtp/239.121.4.182:9076
-相声小品,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c59_fast_1044_720P_t10/c59_fast_1044_720P_t10.m3u8?d
-小品相声,http://www.lizhinas.top:1009/rtp/239.252.220.146:5140#http://home.kaijuns.cn:4000/rtp/239.121.4.186:9100
 爆笑综艺,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_954_720P_t10/c57_fast_954_720P_t10.m3u8?d
 经典传奇,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c60_fast_1036_720P_t10/c60_fast_1036_720P_t10.m3u8?d
 墨宝,http://www.lizhinas.top:1009/rtp/239.252.219.168:5140#http://home.kaijuns.cn:4000/rtp/239.121.4.86:8490
