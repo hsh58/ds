@@ -1,12 +1,12 @@
 中央电视,#genre#
-CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV1,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
 CCTV2,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
 CCTV3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV5,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
 CCTV5+,http://m.061899.xyz/mg/cctv5p
 CCTV6,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
-CCTV7,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV7,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
 CCTV8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV9,http://m.061899.xyz/mg/cctv9
 CCTV10,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
@@ -76,9 +76,9 @@ CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
 黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 港台频道,#genre#
-凤凰中文,http://bxtv.3a.ink/api.php?id=fhzw
-凤凰资讯,http://bxtv.3a.ink/api.php?id=fhzx
-凤凰香港,http://bxtv.3a.ink/api.php?id=fhhk
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -89,7 +89,6 @@ CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
 凤凰资讯,http://iptv.4666888.xyz/iptv2A.php?id=凤凰资讯
 凤凰香港,http://iptv.4666888.xyz/iptv2A.php?id=凤凰香港
 中天新闻,http://iptv.4666888.xyz/iptv2A.php?id=中天新闻
-中天新闻,http://bxtv.3a.ink/api.php?id=ztxw
 中天新闻,http://114.34.40.48:50008/4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://tlive24.uk/livehttpplay?channel_id=20163
 中天新闻,rtmp://hc.siqianginfo.com/live/yifatv-ztxw01
