@@ -1,16 +1,16 @@
 中央电视,#genre#
-CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
-CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
-CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
-CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV1,http://word.mtoo.vip:8333/udp/239.77.1.17:5146
+CCTV2,http://word.mtoo.vip:8333/udp/239.77.1.158:5146
+CCTV3,http://word.mtoo.vip:8333/udp/239.77.0.169:5146
+CCTV4,http://word.mtoo.vip:8333/udp/239.77.1.163:5146
+CCTV5,http://word.mtoo.vip:8333/udp/239.77.0.170:5146
+CCTV5+,http://word.mtoo.vip:8333/udp/239.77.0.87:5146
+CCTV6,http://word.mtoo.vip:8333/udp/239.77.0.171:5146
+CCTV7,http://word.mtoo.vip:8333/udp/239.77.1.159:5146
+CCTV8,http://word.mtoo.vip:8333/udp/239.77.0.172:5146
+CCTV9,http://word.mtoo.vip:8333/udp/239.77.1.160:5146
+CCTV10,http://word.mtoo.vip:8333/udp/239.77.1.113:5146
+CCTV13,http://word.mtoo.vip:8333/udp/239.77.0.188:5146
 CCTV1,https://smt.858.qzz.io/Smart.php?id=cctv1
 CCTV2,https://smt.858.qzz.io/Smart.php?id=cctv2
 CCTV3,https://smt.858.qzz.io/Smart.php?id=cctv3
@@ -50,19 +50,19 @@ CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
 
 卫视地方,#genre#
-安徽卫视,http://a.708d.com:10010/udp/239.45.1.120:5140
+安徽卫视,http://word.mtoo.vip:8333/udp/239.77.1.92:5146
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+江苏卫视,http://word.mtoo.vip:8333/udp/239.77.1.18:5146
+湖南卫视,http://word.mtoo.vip:8333/udp/239.77.1.5:5146
+北京卫视,http://word.mtoo.vip:8333/udp/239.77.1.4:5146
+东方卫视,http://word.mtoo.vip:8333/udp/239.77.1.218:5146
+广东卫视,http://word.mtoo.vip:8333/udp/239.77.1.152:5146
+天津卫视,http://word.mtoo.vip:8333/udp/239.77.1.141:5146
+湖北卫视,http://word.mtoo.vip:8333/udp/239.77.1.93:5146
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
 
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
-浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+浙江卫视,http://word.mtoo.vip:8333/udp/239.77.1.33:5146
 江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
 北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
@@ -103,7 +103,7 @@ tvbs新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 天元围棋,http://ygbh.site/php/bfgd.php?id=633
 天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
-奥林匹克,http://cuiniao.xyz:4022/udp/233.50.200.112:5140
+奥林匹克,http://word.mtoo.vip:8333/udp/239.77.0.165:5146
 奥林匹克,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
 奥林匹克,http://go.bkpcp.top/mg/cctv16
 奥林匹克,http://t.061899.xyz/tl/tl.php?id=cctv16
@@ -206,9 +206,8 @@ tvbs新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
 欢笑剧场,http://cuiniao.xyz:4022/udp/233.50.200.229:5140
 
 少儿频道,#genre#
-央视少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226150/1.m3u8
+央视少儿,http://word.mtoo.vip:8333/udp/239.77.1.161:5146
 央视少儿,http://b.402089.xyz:4022/udp/233.50.200.103:5140
-央视少儿,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 央视少儿,http://t.061899.xyz/tl/tl.php?id=cctv14
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 卡酷少儿,http://a.708d.com:10010/udp/239.45.0.8:5140
