@@ -58,6 +58,7 @@ CCTV10,http://t.061899.xyz/tl/tl.php?id=cctv10
 CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
 
 卫视地方,#genre#
+
 安徽卫视,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 江苏卫视,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
@@ -69,6 +70,11 @@ CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
 天津卫视,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 湖北卫视,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
 合肥新闻,http://112.27.235.94:8000/hls/18/index.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+江苏卫视,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+湖南卫视,http://106.53.99.30/tv/api.php?id=hnws4k
+北京卫视,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
 
 安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
 浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
@@ -102,12 +108,12 @@ CCTV13,http://t.061899.xyz/tl/tl.php?id=cctv13
 凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
 中天新闻,https://stream1.freetv.fun/902325ee4a9945ee9436575e2d2f3af06554ca10579e573d350ab1a231d42ac7.m3u8
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-tai-2-1.m3u8
-中天新闻,https://smt.858.qzz.io/Smart.php?id=ctinews
-东森新闻,https://smt.858.qzz.io/Smart.php?id=ettvnews
-寰宇新闻,https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-tvbs新闻,https://smt.858.qzz.io/Smart.php?id=tvbs_n
+中天新闻,http://free.cnlive.club/channel/41d8a09d/index.m3u8?q=1760217407316
+东森新闻,http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1760217407316
+寰宇新闻,http://free.cnlive.club/channel/n43c34be8/index.m3u8?q=1760217407316
+tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=TVBS新聞
 民视新闻,https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
-中视新闻,https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
+中视新闻,http://free.cnlive.club/channel/428f1dfa/index.m3u8?q=1760217407316
 台视新闻,https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
 东森新闻,http://211.72.174.95:8138/0.ts
 民视新闻,http://123.51.136.80:8117/0.ts
