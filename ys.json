@@ -1,10 +1,6 @@
 {
     "urls": [
         {
-            "url": "http://150.158.112.123/bb/meishi.txt",
-            "name": "🚀美食线路"
-        },    
-        {
             "url": "https://9877.kstore.space/AnotherD/api.json",
             "name": "🚀自选线路"
         },    
