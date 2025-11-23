@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "clan://localhost/tvbox/0421/0421.json",
+            "name": "🚀美食线路"
+        },        
+        {
             "url": "https://9877.kstore.space/AnotherD/api.json",
             "name": "🚀自选线路"
         },    
