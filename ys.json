@@ -1,10 +1,14 @@
 {
-    "urls": [   
+    "urls": [
         {
-            "url": "https://9877.kstore.space/AnotherD/api.json",
-            "name": "🚀自选线路"
+            "url": "https://tvbox.catvod.com/catvod.json",
+            "name": "💚自用线路"
         },    
         {
+            "url": "https://9877.kstore.space/AnotherD/api.json",
+            "name": "💚自选线路"
+        },    
+	{
             "url": "http://www.饭太硬.com/tv",
             "name": "🚀饭太硬线路"
         },                      
@@ -13,8 +17,12 @@
             "name": "🚀网盘线路"
         },
         {
-            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+            "url": "https://tvbox.catvod.com/jsm.json",
             "name": "🚀PG线路"
+        },
+        {
+            "url": "https://tvbox.catvod.com/xs/api.json",
+            "name": "🚀潇洒线路"
         },
         {
             "url": "http://ok321.top/ok",
