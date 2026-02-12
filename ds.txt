@@ -144,10 +144,6 @@ tvbs新闻,https://live.catvod.com/live.php?id=tvbs_n
 四海钓鱼,http://www.liyajun.top:7088/rtp/239.253.93.243:6421
 四海钓鱼,http://tv.sohu.blog/d/mg.php?id=637444975
 四海钓鱼,http://120.76.248.139/live/bfgd/4200000229.m3u8
-书岳钓鱼,https://live.ottiptv.cc/douyu/10100206
-游钓中国,https://live.ottiptv.cc/douyu/791411
-带你钓青鱼,https://live.ottiptv.cc/douyu/7919720
-梦觉教游泳,https://live.ottiptv.cc/douyu/4531679
 
 特色频道,#genre#
 乐游纪实,http://dodge.lwfz.fun:8800/rtp/239.16.20.111:11110
