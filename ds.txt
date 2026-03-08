@@ -94,13 +94,16 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
 中天新闻,http://208.87.242.79/livehttpplay?channel_id=20163
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
+寰宇新闻,http://208.87.242.79/livehttpplay?channel_id=20109
 寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+东森新闻,http://208.87.242.79/livehttpplay?channel_id=20082
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
+tvbs新闻,http://208.87.242.79/livehttpplay?channel_id=20165
 tvbs新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
+民视新闻,http://208.87.242.79/livehttpplay?channel_id=20097
 民视新闻,http://rihou.cc:555/tv/[Hk]民视新聞
 台视新闻,http://rihou.cc:555/tv/[Hk]台视新闻
-
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
