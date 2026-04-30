@@ -38,13 +38,6 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 军事评论,http://129.211.14.102:25000/newtv.php?id=jspl&token=www.9kds.com
 
 卫视频道,#genre#
-安徽卫视,http://129.211.14.102:25000/ahtv.php?id=ahwssx&token=www.9kds.com
-浙江卫视,http://t.061899.xyz/tl/tl.php?id=zjws
-江苏卫视,http://8.138.7.223/tv/jsws4k.php
-湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k
-北京卫视,http://113.241.133.180:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://113.241.133.180:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 安徽卫视,http://39.106.167.36:52666/fjbst.php?id=190
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 江苏卫视,http://39.106.167.36:52666/fjbst.php?id=181
@@ -52,6 +45,13 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 北京卫视,http://39.106.167.36:52666/fjbst.php?id=196
 东方卫视,http://39.106.167.36:52666/fjbst.php?id=179
 广东卫视,http://39.106.167.36:52666/fjbst.php?id=184
+安徽卫视,http://129.211.14.102:25000/ahtv.php?id=ahwssx&token=www.9kds.com
+浙江卫视,http://rihou.cc:555/tv/[mg]浙江卫视
+江苏卫视,http://8.138.7.223/tv/jsws4k.php
+湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k
+北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 浙江卫视,http://go.bkpcp.top/mg/zjws
 江苏卫视,http://go.bkpcp.top/mg/jsws
