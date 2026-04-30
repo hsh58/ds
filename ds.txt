@@ -51,7 +51,7 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 湖南卫视,http://8.138.7.223/tv/api.php?id=hnws4k
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
 东方卫视,http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
-广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdtvs3.m3u8?auth=testpub
+广东卫视,http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 浙江卫视,http://go.bkpcp.top/mg/zjws
 江苏卫视,http://go.bkpcp.top/mg/jsws
@@ -93,7 +93,7 @@ tvbs新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
 天元围棋,http://129.211.14.102:25000/newtv.php?id=tywg&token=www.9kds.com
 天元围棋,http://38.75.136.137:98/gslb/dsdqpub/gztywq.m3u8?auth=testpub
 天元围棋,http://202.105.239.77:8188/rtp/239.253.43.98:5146
-奥林匹克,http://192.151.150.154/live/cctv6hd.m3u8
+奥林匹克,http://192.151.150.154/live/cctv16hd.m3u8
 奥林匹克,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 风云足球,http://192.151.150.154/live/fyzq.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
