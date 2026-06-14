@@ -3,8 +3,8 @@ CCTV1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV3,http://192.151.150.154/live/cctv3hd.m3u8
 CCTV4,http://192.151.150.154/live/cctv4hd.m3u8
-CCTV5,http://192.151.150.154/live/cctv5hd.m3u8
-CCTV5+,http://192.151.150.154/live/cctv5phd.m3u8
+CCTV5,https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
+CCTV5+,https://live.264788.xyz/channel/cctv5p?streamid=188da934b8ba25977f0ac6a59478a16b&livekey=01Wb7kjxu1xx2f7s4tcqSAF03RfwBkY7h8Nz2
 CCTV6,http://192.151.150.154/live/cctv6hd.m3u8
 CCTV7,http://192.151.150.154/live/cctv7hd.m3u8
 CCTV8,http://192.151.150.154/live/cctv8hd.m3u8
@@ -21,7 +21,7 @@ CCTV6,http://rihou.cc:555/tv/[mg]CCTV-06
 CCTV7,http://rihou.cc:555/tv/[mg]CCTV-07
 CCTV8,http://rihou.cc:555/tv/[mg]CCTV-08
 CCTV9,http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV0,http://rihou.cc:555/tv/[mg]CCTV-10
+CCTV10,http://rihou.cc:555/tv/[mg]CCTV-10
 CCTV13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV1,http://go.bkpcp.top/mg/cctv1
 CCTV2,http://go.bkpcp.top/mg/cctv2
@@ -61,19 +61,16 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 广东卫视,http://rihou.cc:555/tv/[mg]广东卫视
 
 港台频道,#genre#
+凤凰中文,http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv
+凤凰资讯,http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv
+凤凰香港,http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
+凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-凤凰中文,http://hls.sohu.blog/gt.php?id=gt12
-凤凰资讯,http://hls.sohu.blog/gt.php?id=gt13
-凤凰香港, http://hls.sohu.blog/gt.php?id=gt6
-凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
-凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-凤凰香港,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhxg
 中天新闻,http://rihou.cc:555/tv/中天新闻
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
