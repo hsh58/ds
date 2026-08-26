@@ -1,11 +1,11 @@
 {
     "urls": [
-        {
-            "url": "https://tvbox.catvod.com/catvod.json",
-            "name": "💚自用线路"
-        },    
-        {
-            "url": "https://qist.wyfc.qzz.io/fty.json",
+       {
+            "url": "https://www.影视仓.com",
+            "name": "🚀影视仓线路"
+       },                      
+       {
+            "url": "http://www.饭太硬.net/tv",
             "name": "🚀饭太硬线路"
         },                      
         {
